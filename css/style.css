@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav ul li.btn-cta a {
   padding: 30px 0px !important;
-  color: #fff;
+  color: #000;
 }
 .fh5co-nav ul li.btn-cta a span {
   background: #FF9900;
@@ -359,7 +359,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-about .btn.btn-learn {
   background: #457B9D;
   border: none;
-  color: #fff !important;
+  color: #000 !important;
 }
 #fh5co-header .display-tc .btn.btn-learn:hover, #fh5co-header .display-tc .btn.btn-learn:focus,
 .fh5co-cover .display-tc .btn.btn-learn:hover,
@@ -376,7 +376,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-tc .btn.btn-demo {
   background: #FF9900;
   border: none;
-  color: #fff;
+  color: #000000;
 }
 #fh5co-header .display-tc .btn.btn-demo:hover, #fh5co-header .display-tc .btn.btn-demo:focus,
 .fh5co-cover .display-tc .btn.btn-demo:hover,
@@ -746,7 +746,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #fff;
+  background: #000;
   color: #FF9900;
   font-size: 16px;
   text-transform: uppercase;
@@ -1333,7 +1333,7 @@ input[type="text"] {
 
 .btn-primary {
   background: #FF9900;
-  color: #fff;
+  color: #000;
   border: 2px solid #FF9900;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
